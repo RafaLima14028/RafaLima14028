@@ -17,13 +17,9 @@ Estudante de Universidade Federal de Uberlândia (UFU) e apaixonado por Intelig�
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/n8n-color.svg" height="400" alt="n8n logo" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" height="400" alt="OpenAI logo" style="filter: brightness(0) invert(1);" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/aistudio.svg" height="400" alt="OpenAI logo" style="filter: brightness(0) invert(1);" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/mcp.svg" height="400" alt="Model Context Protocol logo" style="filter: brightness(0) invert(1);"/>
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/railway.svg" height="400" alt="Railway logo" style="filter: brightness(0) invert(1);" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript logo" />
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/n8n-color.svg" width="40" height="40" alt="n8n logo" />
 </div>
 
 ## 📚 Sobre mim
