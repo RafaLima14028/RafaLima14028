@@ -20,6 +20,10 @@ Estudante de Universidade Federal de Uberlândia (UFU) e apaixonado por Intelig�
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript logo" />
 <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/n8n-color.svg" width="40" height="40" alt="n8n logo" />
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" width="40" height="40" alt="OpenAI logo" />
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/aistudio.svg" width="40" height="40" alt="OpenAI logo" />
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/mcp.svg" width="40" height="40" alt="Model Context Protocol logo" />
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/railway.svg" width="40" height="40" alt="Railway logo" />
 </div>
 
 ## 📚 Sobre mim
