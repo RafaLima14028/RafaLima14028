@@ -45,19 +45,19 @@ Estudante da Universidade Federal de Uberlândia (UFU), entusiasta de Inteligên
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" width="48" height="48" alt="OpenAI" style="filter: brightness(0) invert(1);" />
+        <img src="https://cdn.brandfetch.io/idR3duQxYl/theme/light/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1749527480180" width="48" height="48" alt="OpenAI" style="filter: invert(1);" />
       </a>
       <br>OpenAI
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/aistudio.svg" width="48" height="48" alt="AI Studio" style="filter: brightness(0) invert(1);" />
+        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.74.0/files/dark/aistudio.png" width="48" height="48" alt="AI Studio" style="filter: invert(1);" />
       </a>
       <br>AI Studio
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/mcp.svg" width="48" height="48" alt="MCP" style="filter: brightness(0) invert(1);" />
+        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.74.0/files/dark/mcp.png" width="48" height="48" alt="MCP" style="filter: invert(1);" />
       </a>
       <br>MCP
     </td>
@@ -69,7 +69,7 @@ Estudante da Universidade Federal de Uberlândia (UFU), entusiasta de Inteligên
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/railway.svg" width="48" height="48" alt="Railway" style="filter: brightness(0) invert(1);" />
+        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.74.0/files/dark/railway.png" width="48" height="48" alt="Railway" style="filter: invert(1);" />
       </a>
       <br>Railway
     </td>
