@@ -1,26 +1,27 @@
 <div align="center">
   <a href="https://github.com/RafaLima14028">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaLima14028&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaLima14028&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaLima14028&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaLima14028&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
+  </a>
 </div>
 
 ### 👋 Olá! Sou Rafael Lima
 
-Estudante de Universidade Federal de Uberlândia (UFU) e apaixonado por Inteligência Artificial e Automação.
+Estudante da Universidade Federal de Uberlândia (UFU), entusiasta de Inteligência Artificial e Automação.
 
 ---
 
-### 🚀 O que eu faço
+### 🚀 Minhas Especialidades
 
-- 💻 Desenvolvedor com foco em **Python**, **JavaScript** e tecnologias de automação.
-- 🤖 **Agentes de IA** - Desenvolvo sistemas inteligentes e soluções baseadas em **IA Generativa**.
-- ⚡ **n8n** - Crio fluxos de automação para integrar APIs e otimizar processos.
-- 🎯 **Prompt Engineering** - Criação de prompts para modelos de linguagem.
-- 🔧 **Vibe Coding** - Desenvolvimento de páginas web com ajuda de IA Generativa.
+- 💻 Desenvolvedor com foco em **Python**, **JavaScript** e **tecnologias de automação**.
+- 🤖 **Agentes de IA**: Desenvolvimento de sistemas inteligentes e soluções baseadas em **IA Generativa**.
+- ⚡ **n8n**: Criação de fluxos de automação para integração de APIs e otimização de processos.
+- 🎯 **Engenharia de Prompt**: Elaboração de prompts para modelos de linguagem.
+- 🔧 **Vibe Coding**: Desenvolvimento de páginas web com o auxílio de IA Generativa.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
 <table align="center">
   <tr>
@@ -62,19 +63,31 @@ Estudante de Universidade Federal de Uberlândia (UFU) e apaixonado por Intelig�
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
         <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/railway.svg" width="48" height="48" alt="Railway" style="filter: brightness(0) invert(1);" />
       </a>
       <br>Railway
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/trae-color.svg" width="48" height="48" alt="Trae"  />
+      </a>
+      <br>Trae IDE
     </td>
   </tr>
 </table>
 
 ---
 
-### 📚 Sobre mim
+### 📚 Sobre Mim
 
-- 🎓 Cursando **Ciência da Computação** na UFU.
-- 💡 Apaixonado por criar soluções que combinam **IA com automação prática**.
+- 🎓 Graduando em **Ciência da Computação** na UFU.
+- 💡 Entusiasta na criação de soluções que unem **IA com automação prática**.
 - 🤝 Aberto a colaborações em projetos de **IA, automação e desenvolvimento**.
 - 📧 Contato: **rafael.alv334@gmail.com**
 
@@ -88,7 +101,7 @@ Estudante de Universidade Federal de Uberlândia (UFU) e apaixonado por Intelig�
 
 ---
 
-### 🌐 Conecte-se comigo
+### 🌐 Conecte-se Comigo
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rafa-alves-de-lima/" target="_blank">
