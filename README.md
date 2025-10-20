@@ -93,6 +93,12 @@ Estudante da Universidade Federal de Uberlândia (UFU), entusiasta de Inteligên
 
 ---
 
+### 🌟 Projetos em Destaque
+
+- **[CoinFlow](https://github.com/RafaLima14028/CoinFlow):** Uma experiência moderna e intuitiva para visualizar o câmbio entre moedas. Interface minimalista, suporte a modo claro/escuro e dados atualizados em tempo real. Construída com HTML, CSS, JavaScript e API de câmbio — um projeto desenvolvido com Vibe Coding.
+
+---
+
 ### 📈 Minhas Contribuições
 
 <div align="center">
