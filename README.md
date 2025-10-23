@@ -39,6 +39,12 @@ Estudante da Universidade Federal de Uberlândia (UFU), entusiasta de Inteligên
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Supabase
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
         <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/n8n-color.svg" width="48" height="48" alt="n8n" />
       </a>
       <br>n8n
