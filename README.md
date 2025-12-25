@@ -95,21 +95,7 @@ Estudante da Universidade Federal de Uberlândia (UFU), entusiasta de Inteligên
 - 🎓 Graduando em **Ciência da Computação** na UFU.
 - 💡 Entusiasta na criação de soluções que unem **IA com automação prática**.
 - 🤝 Aberto a colaborações em projetos de **IA, automação e desenvolvimento**.
-- 📧 Contato: **rafael.alv334@gmail.com**
-
----
-
-### 🌟 Projetos em Destaque
-
-- **[CoinFlow](https://github.com/RafaLima14028/CoinFlow):** Uma experiência moderna e intuitiva para visualizar o câmbio entre moedas. Interface minimalista, suporte a modo claro/escuro e dados atualizados em tempo real. Construída com HTML, CSS, JavaScript e API de câmbio — um projeto desenvolvido com Vibe Coding.
-
----
-
-### 📈 Minhas Contribuições
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaLima14028&theme=dracula" alt="GitHub Streak" />
-</div>
+- 📧 Contato: **rafael.alv334@gmail.com** ou **(47) 99213-9215**
 
 ---
 
