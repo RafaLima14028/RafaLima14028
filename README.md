@@ -3,18 +3,18 @@
 # GitHub
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RafaLima14028&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaLima14028&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RafaLima14028&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaLima14028&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used languages" />
 </p>
 
-**Python · Backend · Agentes de IA**
+**Python · Backend Development · AI Agents**
 
 <p>
   <a href="https://www.linkedin.com/in/rafa-alves-de-lima/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:rafael.alv334@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-555555?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" />
+    <img src="https://img.shields.io/badge/Email-Contact-555555?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -22,20 +22,20 @@
 
 ---
 
-## Sobre mim
+## About Me
 
-Desenvolvo soluções com **Python, backends e Inteligência Artificial**, conectando modelos de linguagem a dados, ferramentas e processos reais. Tenho interesse especial em transformar protótipos de IA em aplicações úteis, com APIs bem definidas, persistência, segurança e integrações confiáveis.
+I build solutions with **Python, backend systems, and Artificial Intelligence**, connecting language models to data, tools, and real-world workflows. I’m especially interested in turning AI prototypes into useful applications with well-designed APIs, reliable persistence, security, and integrations.
 
-Atualmente, sou **bolsista de IA na Schulz S.A. pelo programa Inova Talentos** e curso **pós-graduação em Machine Learning Engineering na FIAP**. Também desenvolvo projetos próprios para aprofundar minha prática em arquitetura de backend e sistemas com LLMs.
+I’m currently an **AI Fellow at Schulz S.A. through the Inova Talentos program** and pursuing a **postgraduate specialization in Machine Learning Engineering at FIAP**. I also work on personal projects to deepen my experience in backend architecture and LLM-powered systems.
 
-## Áreas de interesse
+## Areas of Interest
 
-- **Backend:** APIs, arquitetura modular, autenticação e autorização.
-- **Agentes de IA:** uso de ferramentas, orquestração e fluxos com múltiplas etapas.
-- **RAG e dados:** embeddings, busca vetorial, contexto e memória.
-- **Engenharia de software:** testes, observabilidade, segurança e deploy.
+- **Backend Development:** APIs, modular architecture, authentication, and authorization.
+- **AI Agents:** tool use, orchestration, and multi-step workflows.
+- **RAG and Data:** embeddings, vector search, context, and memory.
+- **Software Engineering:** testing, observability, security, and deployment.
 
-## Stack em foco
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -50,27 +50,27 @@ Atualmente, sou **bolsista de IA na Schulz S.A. pelo programa Inova Talentos** e
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-Também estou aprofundando estudos em **MCP, A2A, observabilidade de LLMs e segurança de aplicações com IA**.
+I’m also deepening my knowledge of **MCP, A2A, LLM observability, and AI application security**.
 
-## Projetos em destaque
+## Featured Projects
 
 ### [CortexFlow](https://github.com/RafaLima14028/CortexFlow)
-Backend para conversar com documentos usando RAG. Inclui ingestão e divisão de documentos, embeddings, busca vetorial, autenticação e respostas em streaming.
+A backend for chatting with documents using RAG. Features document ingestion and chunking, embeddings, vector search, authentication, and streaming responses.
 
 `FastAPI` · `Agno` · `MongoDB Atlas Vector Search` · `OpenRouter`
 
 ### [QueryPilot AI](https://github.com/RafaLima14028/QueryCopilot-AI)
-API que transforma perguntas em linguagem natural em consultas SQL, com compreensão do schema, validação e foco em execução controlada.
+An API that converts natural-language questions into SQL queries, with schema awareness, query validation, and a focus on controlled execution.
 
 `Python` · `FastAPI` · `Agno` · `PostgreSQL` · `SQLAlchemy` · `Alembic`
 
 ### [AuthCore](https://github.com/RafaLima14028/authcore)
-API modular de autenticação e autorização com permissões baseadas em funções, tokens JWT, auditoria e testes.
+A modular authentication and authorization API with role-based access control, JWTs, auditing, and tests.
 
 `FastAPI` · `SQLAlchemy` · `PostgreSQL` · `Redis` · `Docker` · `Pytest`
 
 ---
 
 <p align="center">
-  <sub>Aprendizado contínuo, projetos práticos e engenharia aplicada a problemas reais.</sub>
+  <sub>Continuous learning, practical projects, and engineering applied to real-world problems.</sub>
 </p>
