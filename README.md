@@ -1,6 +1,11 @@
 <div align="center">
 
-# Rafael Lima
+# GitHub
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RafaLima14028&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaLima14028&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Linguagens mais usadas" />
+</p>
 
 **Python · Backend · Agentes de IA**
 
@@ -14,6 +19,8 @@
 </p>
 
 </div>
+
+---
 
 ## Sobre mim
 
@@ -61,13 +68,6 @@ API que transforma perguntas em linguagem natural em consultas SQL, com compreen
 API modular de autenticação e autorização com permissões baseadas em funções, tokens JWT, auditoria e testes.
 
 `FastAPI` · `SQLAlchemy` · `PostgreSQL` · `Redis` · `Docker` · `Pytest`
-
-## GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RafaLima14028&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaLima14028&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Linguagens mais usadas" />
-</p>
 
 ---
 
