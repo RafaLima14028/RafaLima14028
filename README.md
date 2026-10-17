@@ -1,117 +1,76 @@
 <div align="center">
-  <a href="https://github.com/RafaLima14028">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaLima14028&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaLima14028&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
+
+# Rafael Lima
+
+**Python · Backend · Agentes de IA**
+
+<p>
+  <a href="https://www.linkedin.com/in/rafa-alves-de-lima/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="mailto:rafael.alv334@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-555555?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+</p>
+
 </div>
 
-### 👋 Olá! Sou Rafael Lima
+## Sobre mim
 
-Estudante da Universidade Federal de Uberlândia (UFU), entusiasta de Inteligência Artificial e Automação.
+Desenvolvo soluções com **Python, backends e Inteligência Artificial**, conectando modelos de linguagem a dados, ferramentas e processos reais. Tenho interesse especial em transformar protótipos de IA em aplicações úteis, com APIs bem definidas, persistência, segurança e integrações confiáveis.
 
----
+Atualmente, sou **bolsista de IA na Schulz S.A. pelo programa Inova Talentos** e curso **pós-graduação em Machine Learning Engineering na FIAP**. Também desenvolvo projetos próprios para aprofundar minha prática em arquitetura de backend e sistemas com LLMs.
 
-### 🚀 Minhas Especialidades
+## Áreas de interesse
 
-- 💻 Desenvolvedor com foco em **Python**, **JavaScript** e **tecnologias de automação**.
-- 🤖 **Agentes de IA**: Desenvolvimento de sistemas inteligentes e soluções baseadas em **IA Generativa**.
-- ⚡ **n8n**: Criação de fluxos de automação para integração de APIs e otimização de processos.
-- 🎯 **Engenharia de Prompt**: Elaboração de prompts para modelos de linguagem.
-- 🔧 **Vibe Coding**: Desenvolvimento de páginas web com o auxílio de IA Generativa.
+- **Backend:** APIs, arquitetura modular, autenticação e autorização.
+- **Agentes de IA:** uso de ferramentas, orquestração e fluxos com múltiplas etapas.
+- **RAG e dados:** embeddings, busca vetorial, contexto e memória.
+- **Engenharia de software:** testes, observabilidade, segurança e deploy.
 
----
+## Stack em foco
 
-### 🛠️ Tecnologias e Ferramentas
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Agno-222222?style=flat-square" alt="Agno" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Supabase
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/n8n-color.svg" width="48" height="48" alt="n8n" />
-      </a>
-      <br>n8n
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn.brandfetch.io/idR3duQxYl/theme/light/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1749527480180" width="48" height="48" alt="OpenAI" style="filter: invert(1);" />
-      </a>
-      <br>OpenAI
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.74.0/files/dark/aistudio.png" width="48" height="48" alt="AI Studio" style="filter: invert(1);" />
-      </a>
-      <br>AI Studio
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.74.0/files/dark/mcp.png" width="48" height="48" alt="MCP" style="filter: invert(1);" />
-      </a>
-      <br>MCP
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.74.0/files/dark/railway.png" width="48" height="48" alt="Railway" style="filter: invert(1);" />
-      </a>
-      <br>Railway
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/trae-color.svg" width="48" height="48" alt="Trae"  />
-      </a>
-      <br>Trae IDE
-    </td>
-  </tr>
-</table>
+Também estou aprofundando estudos em **MCP, A2A, observabilidade de LLMs e segurança de aplicações com IA**.
+
+## Projetos em destaque
+
+### [CortexFlow](https://github.com/RafaLima14028/CortexFlow)
+Backend para conversar com documentos usando RAG. Inclui ingestão e divisão de documentos, embeddings, busca vetorial, autenticação e respostas em streaming.
+
+`FastAPI` · `Agno` · `MongoDB Atlas Vector Search` · `OpenRouter`
+
+### [QueryPilot AI](https://github.com/RafaLima14028/QueryCopilot-AI)
+API que transforma perguntas em linguagem natural em consultas SQL, com compreensão do schema, validação e foco em execução controlada.
+
+`Python` · `FastAPI` · `Agno` · `PostgreSQL` · `SQLAlchemy` · `Alembic`
+
+### [AuthCore](https://github.com/RafaLima14028/authcore)
+API modular de autenticação e autorização com permissões baseadas em funções, tokens JWT, auditoria e testes.
+
+`FastAPI` · `SQLAlchemy` · `PostgreSQL` · `Redis` · `Docker` · `Pytest`
+
+## GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RafaLima14028&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaLima14028&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Linguagens mais usadas" />
+</p>
 
 ---
 
-### 📚 Sobre Mim
-
-- 🎓 Graduando em **Ciência da Computação** na UFU.
-- 💡 Entusiasta na criação de soluções que unem **IA com automação prática**.
-- 🤝 Aberto a colaborações em projetos de **IA, automação e desenvolvimento**.
-- 📧 Contato: **rafael.alv334@gmail.com** ou **(47) 99213-9215**
-
----
-
-### 🌐 Conecte-se Comigo
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/rafa-alves-de-lima/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://stackoverflow.com/users/17541866/rafael-lima" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <h3>Automatizando o futuro, um agente de IA por vez! 🚀</h3>
-</div>
+<p align="center">
+  <sub>Aprendizado contínuo, projetos práticos e engenharia aplicada a problemas reais.</sub>
+</p>
