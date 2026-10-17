@@ -26,7 +26,7 @@
 
 I build solutions with **Python, backend systems, and Artificial Intelligence**, connecting language models to data, tools, and real-world workflows. I’m especially interested in turning AI prototypes into useful applications with well-designed APIs, reliable persistence, security, and integrations.
 
-I’m currently an **AI Fellow at Schulz S.A. through the Inova Talentos program** and pursuing a **postgraduate specialization in Machine Learning Engineering at FIAP**. I also work on personal projects to deepen my experience in backend architecture and LLM-powered systems.
+I’m an **AI Fellow at Schulz S.A. through the Inova Talentos program**, and I’m currently pursuing a **postgraduate specialization in Machine Learning Engineering at FIAP**. I also work on personal projects to deepen my experience in backend architecture and LLM-powered systems.
 
 ## Areas of Interest
 
